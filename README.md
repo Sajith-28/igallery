@@ -229,7 +229,7 @@ modal.addEventListener('click', (event) => {
 
 ```
 ## OUTPUT:
-![Screenshot 2024-11-11 140707](https://github.com/user-attachments/assets/c154a3e3-4d70-46d9-a0a0-c4cb6f59c4c9)
+![Screenshot 2024-11-11 142010](https://github.com/user-attachments/assets/992da9d3-6073-4ff1-9a67-e6198f0730b4)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
